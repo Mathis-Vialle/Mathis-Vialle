@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Mathis-Vialle
-- 👀 I’m interested in front-end dev
-- 🌱 I’m currently learning Angular.js and DotNet
-- 📫 Reach me through mail at mathis.vialle.pro@gmail.com or on my LinkedIn profile https://www.linkedin.com/in/mathis-vialle-44b148180/
+- 👀 I’m interested in fullstack dev
+- 🌱 I’m currently learning Angular and Java
+- 📫 Reach me through mail at mathis.vialle@protonmail.com or on my LinkedIn profile https://www.linkedin.com/in/mathis-vialle-44b148180/
+- 💼 I'm currently actively looking for an internship in Angular/Java development
