@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mathis-Vialle
 - 👀 I’m interested in fullstack dev
-- 🌱 I’m currently learning Angular and Java
+- 🌱 I’m currently learning Angular, NodeJS, Express, MongoDB and Python for a personnal project
 - 📫 Reach me through mail at mathis.vialle@protonmail.com or on my LinkedIn profile https://www.linkedin.com/in/mathis-vialle-44b148180/
 - 💼 I'm currently actively looking for an internship in Angular/Java development
